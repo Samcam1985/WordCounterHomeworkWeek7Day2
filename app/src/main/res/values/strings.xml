@@ -1,4 +1,6 @@
 <resources>
     <string name="app_name">WordCounterHomework</string>
     <string name="alt_app_name">Word Count</string>
+    <string name="text">Enter text here</string>
+    <string name="count">Get word count</string>
 </resources>
