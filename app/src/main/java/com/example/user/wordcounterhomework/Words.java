@@ -12,7 +12,7 @@ public class Words{
 
     public Words() {
         words = new ArrayList<String>();
-        setUpWords();
+        //setUpWords();
     }
 
     public Words(ArrayList<String> newWords) {
